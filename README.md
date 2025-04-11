@@ -1,6 +1,6 @@
 # Greet User 👋  
 
-This repository has a simple script that asks for your name and greets you.  
+This repository contains a simple script that asks for your name and greets you.  
 
 ## Code in This Repo  
 ```python
